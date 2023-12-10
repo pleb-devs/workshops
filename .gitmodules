@@ -1,0 +1,6 @@
+[submodule "tips-for-scaling-express-api"]
+	path = tips-for-scaling-express-api
+	url = https://github.com/pleb-devs/tips-for-scaling-express-api.git
+[submodule "developing-cln-plugins"]
+	path = developing-cln-plugins
+	url = https://github.com/pleb-devs/developing-cln-plugins.git
