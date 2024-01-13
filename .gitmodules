@@ -4,3 +4,6 @@
 [submodule "developing-cln-plugins"]
 	path = developing-cln-plugins
 	url = https://github.com/pleb-devs/developing-cln-plugins.git
+[submodule "workshops"]
+	path = workshops
+	url = https://github.com/pleb-devs/workshops
