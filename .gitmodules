@@ -7,3 +7,6 @@
 [submodule "ndk-basics"]
 	path = ndk-basics
 	url = https://github.com/pleb-devs/ndk-basics.git
+[submodule "nextjs_nostr_app_ndk_template"]
+	path = nextjs_nostr_app_ndk_template
+	url = https://github.com/pleb-devs/nextjs_nostr_app_ndk_template
