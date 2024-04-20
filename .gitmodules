@@ -10,3 +10,6 @@
 [submodule "nextjs_nostr_app_ndk_template"]
 	path = nextjs_nostr_app_ndk_template
 	url = https://github.com/pleb-devs/nextjs_nostr_app_ndk_template
+[submodule "nwc-wallet-workshop"]
+	path = nwc-wallet-workshop
+	url = git@github.com:pleb-devs/nwc-wallet-workshop.git
