@@ -13,3 +13,24 @@
 [submodule "nwc-wallet-workshop"]
 	path = nwc-wallet-workshop
 	url = git@github.com:pleb-devs/nwc-wallet-workshop.git
+[submodule "lightning-address-workshop"]
+	path = lightning-address-workshop
+	url = https://github.com/pleb-devs/lightning-address-workshop.git
+[submodule "lnurl-express-workshop"]
+	path = lnurl-express-workshop
+	url = https://github.com/pleb-devs/lnurl-express-workshop.git
+[submodule "bitcoin-nodejs-starter"]
+	path = bitcoin-nodejs-starter
+	url = https://github.com/pleb-devs/bitcoin-nodejs-starter.git
+[submodule "lnd-interfacing-examples"]
+	path = lnd-interfacing-examples
+	url = https://github.com/pleb-devs/lnd-interfacing-examples.git
+[submodule "lnurl-auth-example"]
+	path = lnurl-auth-example
+	url = https://github.com/pleb-devs/lnurl-auth-example.git
+[submodule "voltage-mutinynet-workshop"]
+	path = voltage-mutinynet-workshop
+	url = https://github.com/pleb-devs/voltage-mutinynet-workshop.git
+[submodule "20-min-lightning-workshop"]
+	path = 20-min-lightning-workshop
+	url = https://github.com/pleb-devs/20-min-lightning-workshop.git
